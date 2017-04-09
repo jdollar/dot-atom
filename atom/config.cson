@@ -1,0 +1,90 @@
+"*":
+  "arduino-upload":
+    arduinoExecutablePath: "/Applications/Arduino.app/Contents/MacOS/Arduino"
+  "atom-autocomplete-php":
+    autoloadPaths: [
+      "vendor/autoload.php"
+      "autoload.php"
+      "psr0_autoloader.php"
+    ]
+  core:
+    disabledPackages: [
+      "language-javascript"
+      "react"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      ".tags"
+      ".tags_swap"
+      "**/vendor"
+      ".pioenvs"
+      ".piolibdeps"
+      ".clang_complete"
+      ".gcc-flags.json"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "zenburn-syntax"
+    ]
+    useCustomTitleBar: true
+  editor:
+    fontFamily: "Hack"
+    fontSize: 12
+    showIndentGuide: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "9c01e6ac-84bf-033c-157e-2c314f95d618"
+  "file-icons":
+    coloured: false
+  fonts:
+    fontFamily: "Hack"
+  "git-plus":
+    general:
+      _analyticsUserId: "1469c031-9496-4511-ab54-edf72d79c6d0"
+  "language-babel":
+    autoIndentJSX: false
+  "linter-php": {}
+  "linter-ui-default":
+    showPanel: true
+    useBusySignal: false
+  minimap: {}
+  "php-getters-setters":
+    getterTemplate: '''
+      %scope%\\\\\\ function\\\\\\ %methodName%()\\ {
+      return\\\\ $this->%variable%;
+      }
+      
+      
+    '''
+    setterTemplate: '''
+      %scope%\\\\\\ function\\\\\\ %methodName%(%typeHint%$%variable%)\\ {
+      $this->%variable%\\\\\\ =\\\\\\ $%variable%;
+      }
+      
+      
+    '''
+  "platformio-ide":
+    showHomeScreen: false
+    showPIOHome: false
+  "platformio-ide-terminal":
+    core: {}
+  "tool-bar":
+    position: "Left"
+    visible: false
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
+  zentabs:
+    neverCloseUnsaved: true
+".source.tsx":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false

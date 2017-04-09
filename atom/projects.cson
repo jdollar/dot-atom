@@ -1,0 +1,256 @@
+[
+  {
+    title: "esp32"
+    group: "esp"
+    paths: [
+      "/Users/jdollar/personalrepos/esp32/"
+    ]
+  }
+  {
+    title: "pWChromeExtension"
+    group: "Chrome"
+    paths: [
+      "/Users/jdollar/personalrepos/pWChromeExtension/"
+    ]
+  }
+  {
+    title: "maxftbserver"
+    group: "minecraftftb"
+    paths: [
+        "/Users/jdollar/personalrepos/staticSites/maxftbcraft"
+    ]
+  }
+  {
+    title: "rescape"
+    group: "atom"
+    paths: [
+      "/Users/jdollar/github/rescape/"
+    ]
+  }
+  {
+    title: "ratpackTest"
+    group: "education"
+    paths: [
+      "/Users/jdollar/personalrepos/ratpackTest/"
+    ]
+  }
+  {
+    title: "homebrew-versions"
+    group: "homebrew"
+    paths: [
+      "/usr/local/Homebrew/Library/Taps/caskroom/homebrew-versions"
+    ]
+  }
+  {
+    title: "kissAnimeRuntime"
+    group: "kodi"
+    paths: [
+      "/Users/jdollar/Library/Application Support/Kodi/addons/plugin.video.kissanime"
+    ]
+  }
+  {
+    title: "myAnimeListExt"
+    group: "chrome"
+    paths: [
+      "/Users/jdollar/personalrepos/myAnimeListExtension"
+    ]
+  }
+  {
+    title: "allKodi"
+    group: "kodi"
+    paths: [
+      "/Users/jdollar/personalrepos/kodi"
+    ]
+  }
+  {
+    title: "fitnessBlenderKodi"
+    group: "kodi"
+    paths: [
+      "/Users/jdollar/personalrepos/kodi/plugin.video.fitnessblender"
+    ]
+  }
+  {
+    title: "kissAnimeKodi"
+    group: "kodi"
+    paths: [
+      "/Users/jdollar/personalrepos/kodi/plugin.video.watchkissanime"
+      "/Users/jdollar/Library/Application Support/Kodi/addons/script.module.urlresolver"
+      "/Users/jdollar/Library/Application Support/Kodi/addons/script.module.t0mm0.common"
+    ]
+  }
+  {
+    title: "arduinoLibs"
+    group: "arduino-core"
+    paths: [
+      "/Applications/Arduino.app/Contents/Java/libraries/"
+    ]
+  }
+  {
+    title: "snake"
+    group: "arduino-snake"
+    paths: [
+      "/Users/jdollar/personalrepos/ardiuno/snake/"
+    ]
+  }
+  {
+    title: "mobilepayweb"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/mobilepayweb/"
+    ]
+  }
+  {
+    title: "mobile"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/mobile/"
+    ]
+  }
+  {
+    title: "ppconfig"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/ppconfig/"
+    ]
+  }
+  {
+    title: "vagrant-server"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/vagrant-server/"
+    ]
+  }
+  {
+    title: "opmgmt"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/opmgmt/"
+    ]
+  }
+  {
+    title: "shared"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/shared/"
+    ]
+  }
+  {
+    title: "database"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/database/"
+    ]
+  }
+  {
+    title: "superpassport"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/superpassport/"
+    ]
+  }
+  {
+    title: "eligibility"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/eligibilitysystem/"
+    ]
+  }
+  {
+    title: "validation"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/validation/"
+    ]
+  }
+  {
+    title: "mobile-pay-android"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/mobilepay-transit-android/"
+    ]
+  }
+  {
+    title: "mobilepay-transit-ios"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/mobilepay-transit-ios"
+    ]
+  }
+  {
+    title: "giftUsersNewYear"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/giftNewUsers/"
+    ]
+  }
+  {
+    title: "utility-cron"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/utility-cron/"
+    ]
+  }
+  {
+    title: "notes"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/Documents/documentation/notes"
+    ]
+  }
+  {
+    title: "rewriteRoot"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/rewriteRepos"
+    ]
+  }
+  {
+    title: "proxyPassthrough"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/rewriteRepos/proxyPassthrough"
+    ]
+  }
+  {
+    title: "svc-operator"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/rewriteRepos/svc-operator"
+    ]
+  }
+  {
+    title: "docker-nginx-php7"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/rewriteRepos/docker-nginx-php7"
+    ]
+  }
+  {
+    title: "docker-node-vagrant"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/rewriteRepos/docker-node-vagrant"
+    ]
+  }
+  {
+    title: "notifications"
+    group: "passport"
+    paths: [
+        "/Users/jdollar/repos/notifications"
+    ]
+  }
+  {
+    title: "s3-static-content"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/s3-static-content"
+    ]
+  }
+  {
+    title: "scripts"
+    group: "passport"
+    paths: [
+      "/Users/jdollar/repos/scripts"
+    ]
+  }
+]
